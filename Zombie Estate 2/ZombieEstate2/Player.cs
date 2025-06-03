@@ -2171,9 +2171,6 @@ namespace ZombieEstate2
 		// Token: 0x040008C5 RID: 2245
 		private float mLastNetHealth = 100f;
 
-		// Token: 0x04000E83 RID: 3715
-		public bool autofire;
-
 		// Token: 0x0200021B RID: 539
 		public struct PlayerSaveData
 		{
