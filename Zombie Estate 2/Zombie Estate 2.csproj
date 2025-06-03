@@ -40,14 +40,23 @@
     <Reference Include="Microsoft.Xna.Framework.GamerServices" />
     <Reference Include="Microsoft.Xna.Framework.Graphics" />
     <Reference Include="Microsoft.Xna.Framework.Storage" />
+    <Reference Include="EasyStorage">
+      <HintPath>lib\EasyStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network">
+      <HintPath>lib\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network.Xna">
+      <HintPath>lib\Lidgren.Network.Xna.dll</HintPath>
+    </Reference>
     <Reference Include="protobuf-net">
-      <HintPath>D:\SteamLibrary\steamapps\common\Zombie Estate 2\protobuf-net.dll</HintPath>
+      <HintPath>lib\protobuf-net.dll</HintPath>
     </Reference>
     <Reference Include="Steamworks.NET">
-      <HintPath>D:\SteamLibrary\steamapps\common\Zombie Estate 2\Steamworks.NET.dll</HintPath>
+      <HintPath>lib\Steamworks.NET.dll</HintPath>
     </Reference>
     <Reference Include="StringParser">
-      <HintPath>D:\SteamLibrary\steamapps\common\Zombie Estate 2\StringParser.dll</HintPath>
+      <HintPath>lib\StringParser.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
